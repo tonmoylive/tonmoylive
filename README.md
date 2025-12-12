@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [📂](https://github.com/tonmoylive?tab=repositories)
 
-- 📝 I regularly active through [Facebook](https://www.facebook.com/mdanikbiswas) to solve queries
+- 📝 I regularly active through [Facebook](https://www.facebook.com/anikbiswastonmoy) to solve queries
 
 - 💬 Ask me about **Networking_and_Web_Development**
 
