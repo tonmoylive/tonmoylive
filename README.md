@@ -24,14 +24,10 @@
 
 - More **It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tonmoylive&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tonmoylive&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoylive&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=tonmoylive&icon=0&color=0)](https://visitcount.itsvg.in)
-
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tonmoylive&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tonmoylive&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoylive&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
