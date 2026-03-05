@@ -38,7 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:contact@anikbiswas.pro.bd" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+<img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/mdanikbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdanikbisws" height="30" width="40" /></a>
 <a href="https://facebook.com/anikbiswastonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdanikbiswas" height="30" width="40" /></a>
