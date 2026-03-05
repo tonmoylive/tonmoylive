@@ -18,9 +18,9 @@
 
 - 💬 Ask me about **Networking_and_Web_Development**
 
-- 📫 How to reach me **engranik@gmail.com**
+- 📫 How to reach me **contact@anikbiswas.pro.bd**
 
-- 📄 Know about my experiences in [LinkedIn](https://linkedin.com/in/mdanikbiswas)
+- 📄 Know about my experiences in [LinkedIn](https://linkedin.com/in/mdanikbiswas) and [Portfolio](https://anikbiswas.pro.bd)
 
 - More **It has always been my passion to learn new things, explore new ideas and thoughts and emphasized on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity, honesty and hard work.**
 
