@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tonmoylive&theme=default&hide_border=false" />
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=tonmoylive&theme=highcontrast&hide_border=true&border_radius=8.6" alt="GitHub Streak" /></a>
 </p>
 
 
