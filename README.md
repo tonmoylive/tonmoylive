@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [📂](https://github.com/tonmoylive?tab=repositories)
 
-- 📝 I regularly active through [Facebook](https://www.facebook.com/anikbiswastonmoy) to solve queries
+- 📝 I regularly active through [Facebook](https://www.facebook.com/mdnkbsws) to solve queries
 
 - 💬 Ask me about **Networking_and_Web_Development**
 
@@ -41,7 +41,7 @@
 <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/mdanikbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdanikbisws" height="30" width="40" /></a>
-<a href="https://facebook.com/anikbiswastonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdanikbiswas" height="30" width="40" /></a>
+<a href="https://facebook.com/mdnkbsws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdanikbiswas" height="30" width="40" /></a>
 <a href="https://instagram.com/tonmoystagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Social/instagram.svg" alt="tonmoystagram" height="30" width="40" /></a>
 <a href="https://wa.me/8801860200908?text=Hello%2C%20I%20want%20to%20contact%20you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
