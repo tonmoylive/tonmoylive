@@ -37,14 +37,14 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap;">
 
   <a href="mailto:contact@anikbiswas.pro.bd">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30"/>
   </a>
 
   <a href="https://linkedin.com/in/mdanikbiswas">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
 
   <a href="https://facebook.com/mdnkbsws">
@@ -65,17 +65,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap;">
 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/amazonaws" width="40"/>
-  <img src="https://cdn.simpleicons.org/css3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/django" width="40"/>
   <img src="https://cdn.simpleicons.org/docker" width="40"/>
   <img src="https://cdn.simpleicons.org/flask" width="40"/>
   <img src="https://cdn.simpleicons.org/git" width="40"/>
   <img src="https://cdn.simpleicons.org/html5" width="40"/>
-  <img src="https://cdn.simpleicons.org/adobeillustrator" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/javascript" width="40"/>
   <img src="https://cdn.simpleicons.org/kubernetes" width="40"/>
   <img src="https://cdn.simpleicons.org/laravel" width="40"/>
