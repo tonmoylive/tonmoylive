@@ -37,7 +37,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap;">
+<div style="display:flex; gap:40px; align-items:center; flex-wrap:wrap;">
 
   <a href="mailto:contact@anikbiswas.pro.bd">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30"/>
@@ -65,7 +65,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap;">
+<div style="display:flex; gap:40px; align-items:center; flex-wrap:wrap;">
 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
